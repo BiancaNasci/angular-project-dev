@@ -3,13 +3,13 @@
 ### Defini o nome de usuário
 
 ```bash
-git config --global user.name “seu nome”
+git config --global user.name “BiancaNasci”
 ```
 
 ### Defini o email do usuário
 
 ```bash
-git config --global user.email “seu email”
+git config --global user.email “bianascig@gmail.com”
 ```
 
 ### Inicializa o repositório
